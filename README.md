@@ -58,3 +58,9 @@ l-k-j-i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i-j-k-l
 ----------------------l----------------------
 ```
 
+
+### Function as a service (FaaS version of above Rangoli - FaasRangoli.py)
+```
+Hit below URL in browser, modify size parameter (between 1 to 26),
+https://us-central1-faas-270704.cloudfunctions.net/Rangoli?size=20 
+```
