@@ -1,3 +1,5 @@
+# https://us-central1-faas-270704.cloudfunctions.net/Rangoli?size=10
+
 def draw_rangoli(request):
 
     try:
